@@ -1,0 +1,7 @@
+today learnings about arrays-->
+1. we find length of array by len() in which we can place array name
+2.arrays memory is continous( except the 1st one which is random)
+3.arrays store homogeneoud data values
+4.arrays works with indexes(which start from 0 to length of array-1)
+5.learnt left rotate array by 1
+
