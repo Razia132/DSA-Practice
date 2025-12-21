@@ -4,4 +4,9 @@ today learnings about arrays-->
 3.arrays store homogeneoud data values
 4.arrays works with indexes(which start from 0 to length of array-1)
 5.learnt left rotate array by 1
+6.we create an array like this temp=[]
+7.not just assign but append in python
+8.using 2 pointer technique is best for arrays
+9.Learnt union of 2 arrays works for both sorted and unsorted arrays
+10.Learnt to remove duplicates in sorted array
 
