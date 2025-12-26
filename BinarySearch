@@ -1,4 +1,4 @@
--->Just learnt by binary search we can solve so many problemsss
+-->Just learnt by binary search we can solve so many problemsss ..literally so manyyyy
 class Solution:
     def searchRange(self, nums: List[int], target: int) -> List[int]:
 
