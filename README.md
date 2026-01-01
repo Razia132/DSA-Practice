@@ -3,7 +3,7 @@
 
 This repository contains Data Structures and Algorithms (DSA) problems solved using Python, organized topic-wise for better clarity and structured learning.
 
-Topics the i will be Covering
+Topics the i will be Covering 
 
 Arrays
 
